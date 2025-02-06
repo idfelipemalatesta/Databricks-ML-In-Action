@@ -139,3 +139,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Kaggle cred file
+kaggle.json
